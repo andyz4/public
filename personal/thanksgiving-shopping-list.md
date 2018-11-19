@@ -10,6 +10,7 @@
 - [ ] Cranberry Sauce
 - [ ] Vegetables (Green Beans/Green Bean Casserole)
 - [ ] Pie (Pumpkin and/or Pecan)
+- [ ] Rolls or Croissants
 - [ ] Wine
 - [ ] Ice Cream (Vanilla Bean)
 
@@ -17,6 +18,8 @@
 ## Store
 - [ ] Black Pepper
 - [ ] Whipped Cream
+- [ ] Baking Trays & Sheets
+- [ ] Aluminum Trays (to serve food in)
 
 ## In-house
 - [X] Salt
