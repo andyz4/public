@@ -1,6 +1,6 @@
 # Thanksgiving Shopping List
 
-## Things To Have
+## Potential Things To Have
 - [ ] Turkey
 - [ ] Corn
 - [ ] Sweet Potatoes
@@ -13,6 +13,7 @@
 - [ ] Rolls or Croissants
 - [ ] Wine
 - [ ] Ice Cream (Vanilla Bean)
+- [ ] Mac & Cheese
 
 
 ## Store
