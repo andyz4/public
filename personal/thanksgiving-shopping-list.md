@@ -1,10 +1,10 @@
 # Thanksgiving Shopping List
 
 ## Menu 
-Entrees
+### Entrees
 - Roast Turkey with Cornbread Stuffing
 - Peking Duck 
-Sides
+### Sides
 - Mashed Potatoes 
 - Gravy
 - Cream Corn
@@ -12,12 +12,12 @@ Sides
 - Mac & Cheese
 - Cranberry Sauce
 - Dinner Rolls 
-Dessert 
+### Dessert 
 - Pumpkin Pie
 - Pecan Pie
 - Sweet Potato Casserole
 - Vanilla Bean Ice Cream
-Drinks
+### Drinks
 - Wine
 
 ## Potential Things To Have
@@ -58,7 +58,7 @@ Drinks
 - [ ] Pepper {4}
 - [ ] Heavy Cream
 - [ ] Parmesan
-
+---
 - [ ] Sweet Potatoes
 - [ ] Cranberry Sauce
 - [ ] Vegetables (Green Beans/Green Bean Casserole)
