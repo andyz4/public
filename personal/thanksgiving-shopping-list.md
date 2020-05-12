@@ -4,21 +4,38 @@
 ### Entrees
 - Roast Turkey with Cornbread Stuffing
 - Peking Duck 
+
 ### Sides
 - Mashed Potatoes 
 - Gravy
 - Cream Corn
 - Green Bean Casserole
-- Mac & Cheese
 - Cranberry Sauce
 - Dinner Rolls 
+- Garlic Bread
+
 ### Dessert 
 - Pumpkin Pie
 - Pecan Pie
-- Sweet Potato Casserole
 - Vanilla Bean Ice Cream
+- Chocolate Cake
+
 ### Drinks
+#### Non-alcoholic
+- Orange Juice
+- Coke
+- Orange Soda
+- Root Beer
+- Water
+
+#### Alcoholic
 - Wine
+- Cider
+- Beer
+- Whiskey
+- Vodka
+- Tequila
+- Gin
 
 ## Potential Things To Have
 - Roast Turkey
